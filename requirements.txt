@@ -1,0 +1,22 @@
+# Core data handling and EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Text processing and RAG pipeline
+langchain
+sentence-transformers
+transformers
+torch
+accelerate  # Recommended for Hugging Face models
+
+# Vector stores (choose one or install both)
+faiss-cpu  # For FAISS (use faiss-gpu if you have a compatible GPU)
+chromadb
+
+# Web Interface
+gradio
+
+# For notebook environment
+jupyterlab

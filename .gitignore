@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data & Vector Stores (these can be large)
+/data/filtered_complaints.csv
+/data/complaints.csv
+/vector_store/
+
+# IDE/Editor specific
+.vscode/
+.idea/
