@@ -6,7 +6,7 @@ The system was developed for CrediTrust Financial, a fictional digital finance c
 
 ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![alt text](https://img.shields.io/badge/python-3.9+-blue.svg)
-![alt text](./gradio_screenshot.png)
+
 
 ✨ **Features**
 
