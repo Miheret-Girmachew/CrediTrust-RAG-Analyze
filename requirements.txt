@@ -20,3 +20,7 @@ gradio
 # Utilities
 jupyterlab
 tqdm
+
+langchain-huggingface
+langchain-chroma
+ipywidgets
