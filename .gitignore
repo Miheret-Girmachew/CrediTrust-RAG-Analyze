@@ -11,3 +11,7 @@ __pycache__/
 # IDE/Editor specific
 .vscode/
 .idea/
+
+# Project-specific ignores
+data/
+vector_store/
