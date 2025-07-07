@@ -7,6 +7,7 @@ scikit-learn
 langchain
 sentence-transformers
 chromadb
+langchain-community
 
 # LLM & Transformers
 transformers
